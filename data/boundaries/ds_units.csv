@@ -1,0 +1,340 @@
+geo_id,name,district,district_id,province,province_id,area_sqkm
+LK1103,Colombo,Colombo,LK11,Western,LK1,24.53715118
+LK1106,Kolonnawa,Colombo,LK11,Western,LK1,25.92803747
+LK1109,Kaduwela,Colombo,LK11,Western,LK1,86.737826
+LK1112,Homagama,Colombo,LK11,Western,LK1,120.31622721
+LK1115,Seethawaka,Colombo,LK11,Western,LK1,145.97697848
+LK1118,Padukka,Colombo,LK11,Western,LK1,106.194605
+LK1121,Maharagama,Colombo,LK11,Western,LK1,37.79675644
+LK1124,Sri Jayawardanapura Kotte,Colombo,LK11,Western,LK1,16.31575721
+LK1127,Thimbirigasyaya,Colombo,LK11,Western,LK1,22.32937601
+LK1130,Dehiwala,Colombo,LK11,Western,LK1,8.45870632
+LK1131,Ratmalana,Colombo,LK11,Western,LK1,12.86251454
+LK1133,Moratuwa,Colombo,LK11,Western,LK1,19.303715
+LK1136,Kesbewa,Colombo,LK11,Western,LK1,61.4082642
+LK1203,Negombo,Gampaha,LK12,Western,LK1,29.18933647
+LK1206,Katana,Gampaha,LK12,Western,LK1,107.79935867
+LK1209,Divulapitiya,Gampaha,LK12,Western,LK1,203.16028691
+LK1212,Mirigama,Gampaha,LK12,Western,LK1,188.81128866
+LK1215,Minuwangoda,Gampaha,LK12,Western,LK1,132.12099111
+LK1218,Wattala,Gampaha,LK12,Western,LK1,57.17071281
+LK1221,Ja Ela,Gampaha,LK12,Western,LK1,62.45012053
+LK1224,Gampaha,Gampaha,LK12,Western,LK1,91.81955769
+LK1227,Attanagalla,Gampaha,LK12,Western,LK1,154.83136158
+LK1230,Dompe,Gampaha,LK12,Western,LK1,179.18492339
+LK1233,Mahara,Gampaha,LK12,Western,LK1,95.74847792
+LK1236,Kelaniya,Gampaha,LK12,Western,LK1,21.93918663
+LK1239,Biyagama,Gampaha,LK12,Western,LK1,61.0059859
+LK1303,Panadura,Kalutara,LK13,Western,LK1,45.39972546
+LK1306,Bandaragama,Kalutara,LK13,Western,LK1,57.07587907
+LK1309,Horana,Kalutara,LK13,Western,LK1,111.35966988
+LK1310,Ingiriya,Kalutara,LK13,Western,LK1,94.69471381
+LK1312,Bulathsinhala,Kalutara,LK13,Western,LK1,211.03353416
+LK1315,Madurawala,Kalutara,LK13,Western,LK1,62.19296604
+LK1318,Millaniya,Kalutara,LK13,Western,LK1,79.41736835
+LK1321,Kalutara,Kalutara,LK13,Western,LK1,75.56544445
+LK1324,Beruwala,Kalutara,LK13,Western,LK1,73.51655711
+LK1327,Dodangoda,Kalutara,LK13,Western,LK1,109.85061138
+LK1330,Matugama,Kalutara,LK13,Western,LK1,138.88139661
+LK1333,Agalawatta,Kalutara,LK13,Western,LK1,92.23876025
+LK1336,Palindanuwara,Kalutara,LK13,Western,LK1,284.11666448
+LK1339,Walallawita,Kalutara,LK13,Western,LK1,211.6479099
+LK2103,Tumpane,Kandy,LK21,Central,LK2,50.92498334
+LK2106,Poojapitiya,Kandy,LK21,Central,LK2,58.60383011
+LK2109,Akurana,Kandy,LK21,Central,LK2,29.90463916
+LK2112,Pathadumbara,Kandy,LK21,Central,LK2,49.00227779
+LK2115,Panvila,Kandy,LK21,Central,LK2,92.62682861
+LK2118,Ududumbara,Kandy,LK21,Central,LK2,277.55166464
+LK2121,Minipe,Kandy,LK21,Central,LK2,249.30749039
+LK2124,Medadumbara,Kandy,LK21,Central,LK2,188.81048794
+LK2127,Kundasale,Kandy,LK21,Central,LK2,81.19229239
+LK2130,Gangawata Korale,Kandy,LK21,Central,LK2,59.60712103
+LK2133,Harispattuwa,Kandy,LK21,Central,LK2,49.49952708
+LK2134,Hatharaliyadda,Kandy,LK21,Central,LK2,63.98985614
+LK2136,Yatinuwara,Kandy,LK21,Central,LK2,69.11233935
+LK2139,Udunuwara,Kandy,LK21,Central,LK2,68.8368363
+LK2142,Doluwa,Kandy,LK21,Central,LK2,93.52352759
+LK2145,Pathahewaheta,Kandy,LK21,Central,LK2,83.83907285
+LK2148,Deltota,Kandy,LK21,Central,LK2,49.49356025
+LK2151,Udapalatha,Kandy,LK21,Central,LK2,94.11674355
+LK2154,Ganga Ihala Korale,Kandy,LK21,Central,LK2,96.17380552
+LK2157,Pasbagekorale,Kandy,LK21,Central,LK2,121.56858578
+LK2203,Galewela,Matale,LK22,Central,LK2,196.93914356
+LK2206,Dambulla,Matale,LK22,Central,LK2,453.33427715
+LK2209,Naula,Matale,LK22,Central,LK2,287.8895656
+LK2212,Pallepola,Matale,LK22,Central,LK2,82.89873738
+LK2215,Yatawatta,Matale,LK22,Central,LK2,67.38984289
+LK2218,Matale,Matale,LK22,Central,LK2,70.76204107
+LK2221,Ambanganga,Matale,LK22,Central,LK2,55.38224695
+LK2224,Laggala,Matale,LK22,Central,LK2,369.92674108
+LK2227,Wilgamuwa,Matale,LK22,Central,LK2,290.83789709
+LK2230,Rattota,Matale,LK22,Central,LK2,103.91660235
+LK2233,Ukuwela,Matale,LK22,Central,LK2,79.47128977
+LK2303,Kothmale East,Nuwara Eliya,LK23,Central,LK2,140.00262634
+LK2306,Hanguranketa,Nuwara Eliya,LK23,Central,LK2,132.87919946
+LK2309,Nildandahinna,Nuwara Eliya,LK23,Central,LK2,171.23557281
+LK2312,Nuwara Eliya,Nuwara Eliya,LK23,Central,LK2,222.06335806
+LK2315,Ambagamuwa Korale,Nuwara Eliya,LK23,Central,LK2,135.58877884
+LK2318,Mathurata,Nuwara Eliya,LK23,Central,LK2,92.83982987
+LK2321,Kothmale West,Nuwara Eliya,LK23,Central,LK2,86.79217667
+LK2324,Walapane,Nuwara Eliya,LK23,Central,LK2,151.64609942
+LK2327,Thalawakele,Nuwara Eliya,LK23,Central,LK2,260.52117036
+LK2330,Norwood,Nuwara Eliya,LK23,Central,LK2,351.24602399
+LK3103,Bentota,Galle,LK31,Southern,LK3,70.97016671
+LK3106,Balapitiya,Galle,LK31,Southern,LK3,54.2648956
+LK3109,Karandeniya,Galle,LK31,Southern,LK3,88.54985332
+LK3112,Elpitiya,Galle,LK31,Southern,LK3,150.63945998
+LK3115,Niyagama,Galle,LK31,Southern,LK3,104.36835168
+LK3118,Thawalama,Galle,LK31,Southern,LK3,173.69792204
+LK3121,Neluwa,Galle,LK31,Southern,LK3,152.50644061
+LK3124,Nagoda,Galle,LK31,Southern,LK3,173.42558449
+LK3127,Baddegama,Galle,LK31,Southern,LK3,66.67902076
+LK3130,Welivitiya-Divitura,Galle,LK31,Southern,LK3,56.4738579
+LK3133,Ambalangoda,Galle,LK31,Southern,LK3,49.21562975
+LK3134,Gonapinuwala,Galle,LK31,Southern,LK3,25.39109858
+LK3136,Hikkaduwa,Galle,LK31,Southern,LK3,13.04202657
+LK3139,Galle 4 Gravets,Galle,LK31,Southern,LK3,22.29980813
+LK3142,Bope-Poddala,Galle,LK31,Southern,LK3,28.61106858
+LK3145,Akmeemana,Galle,LK31,Southern,LK3,71.19631949
+LK3148,Yakkalamulla,Galle,LK31,Southern,LK3,108.67996228
+LK3151,Imaduwa,Galle,LK31,Southern,LK3,58.35501572
+LK3154,Habaraduwa,Galle,LK31,Southern,LK3,48.81028521
+LK3157,Wanduramba,Galle,LK31,Southern,LK3,46.18298412
+LK3160,Madampagama,Galle,LK31,Southern,LK3,23.385602
+LK3163,Rathgama,Galle,LK31,Southern,LK3,26.74322837
+LK3203,Pitabaddara,Matara,LK32,Southern,LK3,136.98695175
+LK3206,Kotapola,Matara,LK32,Southern,LK3,178.98181036
+LK3209,Pasgoda,Matara,LK32,Southern,LK3,154.01269608
+LK3212,Mulatiyana,Matara,LK32,Southern,LK3,120.4015665
+LK3215,Athuraliya,Matara,LK32,Southern,LK3,63.05296524
+LK3218,Akuressa,Matara,LK32,Southern,LK3,150.0608089
+LK3221,Welipitiya,Matara,LK32,Southern,LK3,69.30420298
+LK3224,Malimbada,Matara,LK32,Southern,LK3,42.86039358
+LK3227,Kaburupitiya,Matara,LK32,Southern,LK3,57.8867512
+LK3230,Hakmana,Matara,LK32,Southern,LK3,49.51632998
+LK3233,Kirinda Puhulwella,Matara,LK32,Southern,LK3,41.90589595
+LK3236,Thihagoda,Matara,LK32,Southern,LK3,52.80856454
+LK3239,Weligama,Matara,LK32,Southern,LK3,42.69172661
+LK3242,Matara Four Gravets,Matara,LK32,Southern,LK3,56.63214772
+LK3245,Devinuwara,Matara,LK32,Southern,LK3,38.15727994
+LK3248,Dikwella,Matara,LK32,Southern,LK3,51.10992733
+LK3303,Sooriyawewa,Hambantota,LK33,Southern,LK3,193.65910291
+LK3306,Lunugamwehera,Hambantota,LK33,Southern,LK3,284.91034909
+LK3309,Thissamaharama,Hambantota,LK33,Southern,LK3,792.11379983
+LK3312,Hambantota,Hambantota,LK33,Southern,LK3,343.78378991
+LK3315,Ambalantota,Hambantota,LK33,Southern,LK3,212.80807018
+LK3318,Angunakolapelessa,Hambantota,LK33,Southern,LK3,171.8513888
+LK3321,Weeraketiya,Hambantota,LK33,Southern,LK3,114.68086025
+LK3324,Katuwana,Hambantota,LK33,Southern,LK3,105.08813418
+LK3325,Walasmulla,Hambantota,LK33,Southern,LK3,108.56424806
+LK3327,Okewela,Hambantota,LK33,Southern,LK3,42.13955755
+LK3330,Beliatta,Hambantota,LK33,Southern,LK3,102.69732654
+LK3333,Tangalle,Hambantota,LK33,Southern,LK3,152.76750517
+LK4103,Islands North (Kayts),Jaffna,LK41,Northern,LK4,32.47095612
+LK4104,Karainagar,Jaffna,LK41,Northern,LK4,23.63776773
+LK4106,Valikamam West (Chankanai),Jaffna,LK41,Northern,LK4,48.94046761
+LK4109,Valikamam South West (Sandilipay),Jaffna,LK41,Northern,LK4,47.65426971
+LK4112,Valikamam North (Thllippalai),Jaffna,LK41,Northern,LK4,61.68472084
+LK4115,Valikamam South (Uduvil),Jaffna,LK41,Northern,LK4,34.38038269
+LK4118,Valikamam East (Kopay),Jaffna,LK41,Northern,LK4,108.75445674
+LK4121,Vadamaradchchi South-West (Karaveddy),Jaffna,LK41,Northern,LK4,86.459337
+LK4124,Vadamaradchchi East,Jaffna,LK41,Northern,LK4,189.15353581
+LK4127,Vadamaradchi North (Point Pedro),Jaffna,LK41,Northern,LK4,39.20419383
+LK4130,Thenmaradchi (Chavakachcheri),Jaffna,LK41,Northern,LK4,236.0746
+LK4133,Nallur,Jaffna,LK41,Northern,LK4,32.67440611
+LK4136,Jaffna,Jaffna,LK41,Northern,LK4,10.97524516
+LK4139,Islands South (Velanai),Jaffna,LK41,Northern,LK4,90.73377813
+LK4142,Delft,Jaffna,LK41,Northern,LK4,48.44068945
+LK4203,Mannar Town,Mannar,LK42,Northern,LK4,220.18201554
+LK4206,Manthai West,Mannar,LK42,Northern,LK4,614.9790401
+LK4209,Madhu,Mannar,LK42,Northern,LK4,565.00560688
+LK4212,Nanaddan,Mannar,LK42,Northern,LK4,147.39833615
+LK4215,Musali,Mannar,LK42,Northern,LK4,463.2642499
+LK4303,Vavuniya North,Vavuniya,LK43,Northern,LK4,686.71917934
+LK4306,Vavuniya South,Vavuniya,LK43,Northern,LK4,216.25214681
+LK4309,Vavuniya,Vavuniya,LK43,Northern,LK4,616.85416269
+LK4312,Vengalacheddikulam,Vavuniya,LK43,Northern,LK4,415.08329306
+LK4403,Thunukkai,Mullaitivu,LK44,Northern,LK4,329.19436683
+LK4406,Manthai East,Mullaitivu,LK44,Northern,LK4,485.90869577
+LK4409,Puthukkudiyiruppu,Mullaitivu,LK44,Northern,LK4,326.53029786
+LK4412,Oddusuddan,Mullaitivu,LK44,Northern,LK4,762.53804225
+LK4415,Maritimepattu,Mullaitivu,LK44,Northern,LK4,612.64251107
+LK4418,Welioya,Mullaitivu,LK44,Northern,LK4,164.33442601
+LK4503,Pachchilaipalli,Kilinochchi,LK45,Northern,LK4,176.02579983
+LK4506,Kandavalai,Kilinochchi,LK45,Northern,LK4,274.30265575
+LK4509,Karachchi,Kilinochchi,LK45,Northern,LK4,395.56800955
+LK4512,Poonakary,Kilinochchi,LK45,Northern,LK4,473.39387597
+LK5103,Koralai Pattu North,Batticaloa,LK51,Eastern,LK5,515.50242657
+LK5104,Koralai Pattu Central,Batticaloa,LK51,Eastern,LK5,8.03829111
+LK5106,Koralai Pattu West,Batticaloa,LK51,Eastern,LK5,22.93556418
+LK5109,Koralai Pattu,Batticaloa,LK51,Eastern,LK5,30.69134612
+LK5110,Koralai Pattu South,Batticaloa,LK51,Eastern,LK5,598.36384581
+LK5115,Eravur Pattu,Batticaloa,LK51,Eastern,LK5,599.2204905
+LK5118,Manmunai North,Batticaloa,LK51,Eastern,LK5,45.70250131
+LK5121,Manmunai West,Batticaloa,LK51,Eastern,LK5,280.58471316
+LK5124,Kattankudy,Batticaloa,LK51,Eastern,LK5,3.87567893
+LK5127,Manmunai Pattu,Batticaloa,LK51,Eastern,LK5,25.45011927
+LK5130,Manmunai South West,Batticaloa,LK51,Eastern,LK5,145.13799417
+LK5133,Porativu Pattu,Batticaloa,LK51,Eastern,LK5,159.21407427
+LK5136,Manmunai South & Eruvil Pattu,Batticaloa,LK51,Eastern,LK5,43.92047841
+LK5139,Eravur Town,Batticaloa,LK51,Eastern,LK5,1.86474696
+LK5203,Dehiattakandiya,Ampara,LK52,Eastern,LK5,374.17595054
+LK5206,Padiyathalawa,Ampara,LK52,Eastern,LK5,388.22571584
+LK5209,Mahaoya,Ampara,LK52,Eastern,LK5,680.41056798
+LK5212,Uhana,Ampara,LK52,Eastern,LK5,535.55002888
+LK5215,Ampara,Ampara,LK52,Eastern,LK5,139.51831605
+LK5216,Navithanveli,Ampara,LK52,Eastern,LK5,79.81307634
+LK5218,Sammanthurai,Ampara,LK52,Eastern,LK5,108.91193104
+LK5221,Kalmunai,Ampara,LK52,Eastern,LK5,20.91366724
+LK5225,Sainthamaruthu,Ampara,LK52,Eastern,LK5,3.35092219
+LK5227,Karaitivu,Ampara,LK52,Eastern,LK5,10.14560915
+LK5230,Nintavur,Ampara,LK52,Eastern,LK5,35.94045485
+LK5233,Addalaichenai,Ampara,LK52,Eastern,LK5,74.4032526
+LK5234,Irakkamam,Ampara,LK52,Eastern,LK5,67.22525801
+LK5236,Akkaraipattu,Ampara,LK52,Eastern,LK5,53.68116922
+LK5239,Alayadivembu,Ampara,LK52,Eastern,LK5,69.69214667
+LK5242,Damana,Ampara,LK52,Eastern,LK5,489.5376145
+LK5245,Tirukkovil,Ampara,LK52,Eastern,LK5,218.49836595
+LK5248,Pottuvil,Ampara,LK52,Eastern,LK5,309.36273132
+LK5251,Lahugala,Ampara,LK52,Eastern,LK5,815.29978769
+LK5303,Padavi Sri Pura,Trincomalee,LK53,Eastern,LK5,113.32866548
+LK5306,Kuchchaweli,Trincomalee,LK53,Eastern,LK5,446.96540137
+LK5309,Gomarankadawala,Trincomalee,LK53,Eastern,LK5,307.33406146
+LK5312,Morawewa,Trincomalee,LK53,Eastern,LK5,278.14221195
+LK5315,Town & Gravets,Trincomalee,LK53,Eastern,LK5,129.81539296
+LK5318,Thambalagamuwa,Trincomalee,LK53,Eastern,LK5,274.19126577
+LK5321,Kantale,Trincomalee,LK53,Eastern,LK5,412.72809419
+LK5324,Kinniya,Trincomalee,LK53,Eastern,LK5,151.55307792
+LK5327,Muthur,Trincomalee,LK53,Eastern,LK5,194.18521438
+LK5330,Seruvila,Trincomalee,LK53,Eastern,LK5,293.32268785
+LK5333,Verugal,Trincomalee,LK53,Eastern,LK5,90.5401596
+LK6103,Giribawa,Kurunegala,LK61,North Western,LK6,205.37053064
+LK6106,Galgamuwa,Kurunegala,LK61,North Western,LK6,273.20188874
+LK6109,Ehetuwewa,Kurunegala,LK61,North Western,LK6,171.51765027
+LK6112,Ambanpola,Kurunegala,LK61,North Western,LK6,140.33289846
+LK6115,Kotawehera,Kurunegala,LK61,North Western,LK6,189.56084163
+LK6118,Rasnayakapura,Kurunegala,LK61,North Western,LK6,124.5649755
+LK6121,Nikaweratiya,Kurunegala,LK61,North Western,LK6,151.31745846
+LK6124,Maho,Kurunegala,LK61,North Western,LK6,261.39530591
+LK6127,Polpitigama,Kurunegala,LK61,North Western,LK6,415.63760537
+LK6130,Ibbagamuwa,Kurunegala,LK61,North Western,LK6,217.16510956
+LK6133,Ganewatta,Kurunegala,LK61,North Western,LK6,150.26070383
+LK6136,Wariyapola,Kurunegala,LK61,North Western,LK6,201.99210102
+LK6139,Kobeigane,Kurunegala,LK61,North Western,LK6,130.28189622
+LK6142,Bingiriya,Kurunegala,LK61,North Western,LK6,193.61699168
+LK6145,Panduwasnuwara West,Kurunegala,LK61,North Western,LK6,180.97093975
+LK6148,Panduwasnuwara East,Kurunegala,LK61,North Western,LK6,102.5004653
+LK6149,Bamunakotuwa,Kurunegala,LK61,North Western,LK6,110.5356756
+LK6151,Maspotha,Kurunegala,LK61,North Western,LK6,66.35760364
+LK6154,Kurunegala,Kurunegala,LK61,North Western,LK6,97.70615256
+LK6157,Mallawapitiya,Kurunegala,LK61,North Western,LK6,79.25290833
+LK6160,Mawathagama,Kurunegala,LK61,North Western,LK6,108.43239008
+LK6163,Rideegama,Kurunegala,LK61,North Western,LK6,225.15307933
+LK6166,Weerabugedara,Kurunegala,LK61,North Western,LK6,91.82944429
+LK6169,Kuliyapitiya East,Kurunegala,LK61,North Western,LK6,113.77908066
+LK6172,Kuliyapitiya West,Kurunegala,LK61,North Western,LK6,165.48899766
+LK6175,Udubaddawa,Kurunegala,LK61,North Western,LK6,119.90495933
+LK6178,Pannala,Kurunegala,LK61,North Western,LK6,282.22442514
+LK6181,Narammala,Kurunegala,LK61,North Western,LK6,108.53275634
+LK6184,Alawwa,Kurunegala,LK61,North Western,LK6,130.25275021
+LK6187,Polgahawela,Kurunegala,LK61,North Western,LK6,96.5694587
+LK6203,Kalpitiya,Puttalam,LK62,North Western,LK6,162.64731042
+LK6206,Vanathavilluwa,Puttalam,LK62,North Western,LK6,737.44118924
+LK6209,Karuwalagaswewa,Puttalam,LK62,North Western,LK6,499.75710313
+LK6212,Nawagattegama,Puttalam,LK62,North Western,LK6,171.50358631
+LK6215,Puttalam,Puttalam,LK62,North Western,LK6,173.96726641
+LK6218,Mundel,Puttalam,LK62,North Western,LK6,246.42603123
+LK6221,Mahakumbukkadawala,Puttalam,LK62,North Western,LK6,185.05048972
+LK6224,Anamaduwa,Puttalam,LK62,North Western,LK6,248.63397764
+LK6227,Pallama,Puttalam,LK62,North Western,LK6,121.20945143
+LK6230,Arachchikattuwa,Puttalam,LK62,North Western,LK6,158.49764669
+LK6233,Chilaw,Puttalam,LK62,North Western,LK6,92.87765804
+LK6236,Madampe,Puttalam,LK62,North Western,LK6,93.03496633
+LK6239,Mahawewa,Puttalam,LK62,North Western,LK6,73.15512098
+LK6242,Nattandiya,Puttalam,LK62,North Western,LK6,77.81180761
+LK6245,Wennappuwa,Puttalam,LK62,North Western,LK6,41.24619998
+LK6248,Dankotuwa,Puttalam,LK62,North Western,LK6,76.67813734
+LK7103,Padaviya,Anuradhapura,LK71,North Central,LK7,247.25589827
+LK7106,Kebithigollewa,Anuradhapura,LK71,North Central,LK7,613.67791961
+LK7109,Medawachchiya,Anuradhapura,LK71,North Central,LK7,489.19353963
+LK7112,Mahawilachchiya,Anuradhapura,LK71,North Central,LK7,616.94077141
+LK7115,Nuwaragam Palatha Central,Anuradhapura,LK71,North Central,LK7,401.15976275
+LK7118,Rambewa,Anuradhapura,LK71,North Central,LK7,306.11026473
+LK7121,Kahatagasdigiliya,Anuradhapura,LK71,North Central,LK7,370.25012973
+LK7124,Horowpathana,Anuradhapura,LK71,North Central,LK7,832.94984382
+LK7127,Galenbidunuwewa,Anuradhapura,LK71,North Central,LK7,292.54444112
+LK7130,Mihinthale,Anuradhapura,LK71,North Central,LK7,229.44446867
+LK7133,Nuwaragam Palatha East,Anuradhapura,LK71,North Central,LK7,92.04250787
+LK7136,Nachchaduwa,Anuradhapura,LK71,North Central,LK7,110.03377394
+LK7139,Nochchiyagama,Anuradhapura,LK71,North Central,LK7,838.29265802
+LK7142,Rajanganaya,Anuradhapura,LK71,North Central,LK7,105.84354485
+LK7145,Thambuththegama,Anuradhapura,LK71,North Central,LK7,113.34327314
+LK7148,Thalawa,Anuradhapura,LK71,North Central,LK7,228.74753127
+LK7151,Thirappane,Anuradhapura,LK71,North Central,LK7,272.36753566
+LK7154,Kekirawa,Anuradhapura,LK71,North Central,LK7,346.74720974
+LK7157,Palugaswewa,Anuradhapura,LK71,North Central,LK7,205.62134249
+LK7160,Ipalogama,Anuradhapura,LK71,North Central,LK7,141.66920309
+LK7163,Galnewa,Anuradhapura,LK71,North Central,LK7,138.57759676
+LK7166,Palagala,Anuradhapura,LK71,North Central,LK7,225.47400428
+LK7203,Higurakgoda,Polonnaruwa,LK72,North Central,LK7,705.23396543
+LK7206,Medirigiriya,Polonnaruwa,LK72,North Central,LK7,573.2595376
+LK7209,Lankapura,Polonnaruwa,LK72,North Central,LK7,197.46795351
+LK7210,Welikanda,Polonnaruwa,LK72,North Central,LK7,574.3264696
+LK7212,Dimbulagala,Polonnaruwa,LK72,North Central,LK7,585.89542561
+LK7215,Thamankaduwa,Polonnaruwa,LK72,North Central,LK7,467.44534806
+LK7218,Elahera,Polonnaruwa,LK72,North Central,LK7,366.08770765
+LK8103,Mahiyanganaya,Badulla,LK81,Uva,LK8,601.87596637
+LK8106,Rideemaliyadda,Badulla,LK81,Uva,LK8,437.14321178
+LK8109,Meegahakiula,Badulla,LK81,Uva,LK8,108.81595282
+LK8112,Kandeketiya,Badulla,LK81,Uva,LK8,150.72349548
+LK8115,Soranathota,Badulla,LK81,Uva,LK8,80.49645239
+LK8118,Passara,Badulla,LK81,Uva,LK8,134.59395449
+LK8119,Lunugala,Badulla,LK81,Uva,LK8,143.00571973
+LK8121,Badulla,Badulla,LK81,Uva,LK8,48.84947618
+LK8124,Hali-Ela,Badulla,LK81,Uva,LK8,170.04690391
+LK8127,Uvaparanagama,Badulla,LK81,Uva,LK8,137.69006145
+LK8130,Welimada,Badulla,LK81,Uva,LK8,193.99696583
+LK8133,Bandarawela,Badulla,LK81,Uva,LK8,70.89578223
+LK8136,Ella,Badulla,LK81,Uva,LK8,109.611983
+LK8139,Haputale,Badulla,LK81,Uva,LK8,69.03607216
+LK8142,Haldummulla,Badulla,LK81,Uva,LK8,415.17392996
+LK8203,Bibile,Monaragala,LK82,Uva,LK8,466.05497554
+LK8206,Madulla,Monaragala,LK82,Uva,LK8,750.31882197
+LK8209,Medagama,Monaragala,LK82,Uva,LK8,240.35137241
+LK8212,Siyambalanduwa,Monaragala,LK82,Uva,LK8,1059.93653994
+LK8215,Monaragala,Monaragala,LK82,Uva,LK8,290.52151869
+LK8218,Badalkumbura,Monaragala,LK82,Uva,LK8,237.08595954
+LK8221,Wellawaya,Monaragala,LK82,Uva,LK8,574.94025081
+LK8224,Buttala,Monaragala,LK82,Uva,LK8,709.85858834
+LK8227,Katharagama,Monaragala,LK82,Uva,LK8,609.07826978
+LK8230,Thanamalwila,Monaragala,LK82,Uva,LK8,635.53920752
+LK8233,Sevanagala,Monaragala,LK82,Uva,LK8,184.30338696
+LK9103,Eheliyagoda,Ratnapura,LK91,Sabaragamuwa,LK9,140.97144836
+LK9106,Kuruvita,Ratnapura,LK91,Sabaragamuwa,LK9,171.01634562
+LK9109,Kiriella,Ratnapura,LK91,Sabaragamuwa,LK9,79.42589467
+LK9112,Ratnapura,Ratnapura,LK91,Sabaragamuwa,LK9,327.73366562
+LK9115,Imbulpe,Ratnapura,LK91,Sabaragamuwa,LK9,255.01038486
+LK9118,Balangoda,Ratnapura,LK91,Sabaragamuwa,LK9,183.45142558
+LK9121,Opanayake,Ratnapura,LK91,Sabaragamuwa,LK9,79.2879486
+LK9124,Pelmadulla,Ratnapura,LK91,Sabaragamuwa,LK9,146.67866842
+LK9127,Elapatha,Ratnapura,LK91,Sabaragamuwa,LK9,85.60674261
+LK9130,Ayagama,Ratnapura,LK91,Sabaragamuwa,LK9,163.3545074
+LK9133,Kalawana,Ratnapura,LK91,Sabaragamuwa,LK9,382.39896618
+LK9136,Nivithigala,Ratnapura,LK91,Sabaragamuwa,LK9,153.45624955
+LK9139,Kahawattha,Ratnapura,LK91,Sabaragamuwa,LK9,104.24882655
+LK9142,Godakawela,Ratnapura,LK91,Sabaragamuwa,LK9,152.12108428
+LK9145,Weligepola,Ratnapura,LK91,Sabaragamuwa,LK9,198.0154523
+LK9148,Embilipitiya,Ratnapura,LK91,Sabaragamuwa,LK9,388.81691967
+LK9151,Kolonna,Ratnapura,LK91,Sabaragamuwa,LK9,177.84585108
+LK9154,Kalthota,Ratnapura,LK91,Sabaragamuwa,LK9,97.63536912
+LK9203,Rambukkana,Kegalle,LK92,Sabaragamuwa,LK9,127.79289168
+LK9206,Mawanella,Kegalle,LK92,Sabaragamuwa,LK9,120.09402266
+LK9209,Aranayake,Kegalle,LK92,Sabaragamuwa,LK9,120.09489847
+LK9212,Kegalle,Kegalle,LK92,Sabaragamuwa,LK9,106.25369199
+LK9215,Galigamuwa,Kegalle,LK92,Sabaragamuwa,LK9,124.58982267
+LK9218,Warakapola,Kegalle,LK92,Sabaragamuwa,LK9,196.98213461
+LK9221,Ruwanwella,Kegalle,LK92,Sabaragamuwa,LK9,140.63789107
+LK9224,Bulathkohipitiya,Kegalle,LK92,Sabaragamuwa,LK9,125.26606478
+LK9227,Yatiyantota,Kegalle,LK92,Sabaragamuwa,LK9,179.91472293
+LK9230,Dehiowita,Kegalle,LK92,Sabaragamuwa,LK9,193.94808697
+LK9233,Deraniyagala,Kegalle,LK92,Sabaragamuwa,LK9,222.15786447
