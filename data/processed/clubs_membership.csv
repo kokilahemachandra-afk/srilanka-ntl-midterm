@@ -1,0 +1,340 @@
+geo_id,club,name,province,ntl_mean,club_name
+LK1103,0,Colombo,Western,41.22538585955424,No club
+LK1127,0,Thimbirigasyaya,Western,24.807594201856503,No club
+LK1106,1,Kolonnawa,Western,11.683668975871475,Club 1
+LK1121,1,Maharagama,Western,9.096108039986897,Club 1
+LK1124,1,Sri Jayawardanapura Kotte,Western,15.093575026263304,Club 1
+LK1130,1,Dehiwala,Western,15.923562872858412,Club 1
+LK1131,1,Ratmalana,Western,12.983381962975663,Club 1
+LK1203,1,Negombo,Western,9.975240108543831,Club 1
+LK1236,1,Kelaniya,Western,14.121486212473268,Club 1
+LK4136,1,Jaffna,Northern,8.037828094560528,Club 1
+LK5124,1,Kattankudy,Eastern,8.8339503363897,Club 1
+LK5139,1,Eravur Town,Eastern,7.907578814102764,Club 1
+LK5225,1,Sainthamaruthu,Eastern,6.351521672120637,Club 1
+LK1109,2,Kaduwela,Western,6.224100841585497,Club 2
+LK1112,2,Homagama,Western,3.6005181311701,Club 2
+LK1115,2,Seethawaka,Western,1.4569800126746513,Club 2
+LK1118,2,Padukka,Western,1.4205487658994151,Club 2
+LK1133,2,Moratuwa,Western,7.363909235124811,Club 2
+LK1136,2,Kesbewa,Western,6.153394457495948,Club 2
+LK1206,2,Katana,Western,6.8956094533561325,Club 2
+LK1209,2,Divulapitiya,Western,1.7940923616289426,Club 2
+LK1212,2,Mirigama,Western,1.3468851976930172,Club 2
+LK1215,2,Minuwangoda,Western,2.496327319642877,Club 2
+LK1218,2,Wattala,Western,7.738182832787595,Club 2
+LK1221,2,Ja Ela,Western,6.387404530751377,Club 2
+LK1224,2,Gampaha,Western,3.7170588836508256,Club 2
+LK1227,2,Attanagalla,Western,2.155091195167049,Club 2
+LK1230,2,Dompe,Western,1.7195122724802216,Club 2
+LK1233,2,Mahara,Western,3.3104994029468773,Club 2
+LK1239,2,Biyagama,Western,8.087821412381258,Club 2
+LK1303,2,Panadura,Western,3.536391724941654,Club 2
+LK1306,2,Bandaragama,Western,2.49729693620488,Club 2
+LK1309,2,Horana,Western,2.059622986917462,Club 2
+LK1310,2,Ingiriya,Western,1.3124883519132908,Club 2
+LK1318,2,Millaniya,Western,1.203487460539188,Club 2
+LK1321,2,Kalutara,Western,2.4219471805848567,Club 2
+LK1324,2,Beruwala,Western,2.424714028127459,Club 2
+LK2109,2,Akurana,Central,1.0430935768021072,Club 2
+LK2112,2,Pathadumbara,Central,1.1386510346036405,Club 2
+LK2127,2,Kundasale,Central,1.449306751227196,Club 2
+LK2130,2,Gangawata Korale,Central,3.2817894099406484,Club 2
+LK2151,2,Udapalatha,Central,0.9808572113144312,Club 2
+LK2203,2,Galewela,Central,0.6652232172737375,Club 2
+LK2212,2,Pallepola,Central,0.516824352631375,Club 2
+LK2215,2,Yatawatta,Central,0.5484928735957946,Club 2
+LK2218,2,Matale,Central,1.2792803103749446,Club 2
+LK2221,2,Ambanganga,Central,0.5117768529830966,Club 2
+LK2230,2,Rattota,Central,0.6210627422638662,Club 2
+LK2233,2,Ukuwela,Central,0.9250743686558,Club 2
+LK3103,2,Bentota,Southern,1.1591213607004331,Club 2
+LK3106,2,Balapitiya,Southern,1.4051236090589034,Club 2
+LK3133,2,Ambalangoda,Southern,1.1719423587488185,Club 2
+LK3134,2,Gonapinuwala,Southern,1.050885743732798,Club 2
+LK3136,2,Hikkaduwa,Southern,2.78143823344505,Club 2
+LK3139,2,Galle 4 Gravets,Southern,4.932698965537289,Club 2
+LK3142,2,Bope-Poddala,Southern,2.089500761740847,Club 2
+LK3145,2,Akmeemana,Southern,1.8926261369335189,Club 2
+LK3154,2,Habaraduwa,Southern,2.14021613539409,Club 2
+LK3160,2,Madampagama,Southern,1.325718439869645,Club 2
+LK3163,2,Rathgama,Southern,1.4534851606423838,Club 2
+LK3224,2,Malimbada,Southern,1.2081321105510512,Club 2
+LK3227,2,Kaburupitiya,Southern,0.8145977211541658,Club 2
+LK3236,2,Thihagoda,Southern,1.173711866168688,Club 2
+LK3239,2,Weligama,Southern,2.005521502944072,Club 2
+LK3242,2,Matara Four Gravets,Southern,2.4926032275335595,Club 2
+LK3245,2,Devinuwara,Southern,1.4546122862446202,Club 2
+LK3303,2,Sooriyawewa,Southern,0.9133667274148468,Club 2
+LK3312,2,Hambantota,Southern,2.157763092485879,Club 2
+LK3315,2,Ambalantota,Southern,0.8026805404356345,Club 2
+LK3318,2,Angunakolapelessa,Southern,0.8354952477949129,Club 2
+LK3330,2,Beliatta,Southern,0.9236607545462306,Club 2
+LK3333,2,Tangalle,Southern,0.9106755156895712,Club 2
+LK4103,2,Islands North (Kayts),Northern,0.8547016750988142,Club 2
+LK4104,2,Karainagar,Northern,0.9787379704930144,Club 2
+LK4106,2,Valikamam West (Chankanai),Northern,1.3181716517421591,Club 2
+LK4109,2,Valikamam South West (Sandilipay),Northern,1.676732610790416,Club 2
+LK4112,2,Valikamam North (Thllippalai),Northern,1.6953962777209826,Club 2
+LK4115,2,Valikamam South (Uduvil),Northern,2.439589715643542,Club 2
+LK4118,2,Valikamam East (Kopay),Northern,1.5383983641958745,Club 2
+LK4121,2,Vadamaradchchi South-West (Karaveddy),Northern,1.3084190892705818,Club 2
+LK4124,2,Vadamaradchchi East,Northern,0.6069201342753002,Club 2
+LK4127,2,Vadamaradchi North (Point Pedro),Northern,2.2809799543095046,Club 2
+LK4130,2,Thenmaradchi (Chavakachcheri),Northern,1.0716688769509557,Club 2
+LK4133,2,Nallur,Northern,3.6628543334585353,Club 2
+LK4139,2,Islands South (Velanai),Northern,0.9565668686973302,Club 2
+LK4142,2,Delft,Northern,0.4644995404152738,Club 2
+LK4203,2,Mannar Town,Northern,0.7881851198010508,Club 2
+LK4206,2,Manthai West,Northern,0.4150266315972135,Club 2
+LK4209,2,Madhu,Northern,0.390079733508633,Club 2
+LK4212,2,Nanaddan,Northern,0.5286491983104984,Club 2
+LK4215,2,Musali,Northern,0.4421174172536423,Club 2
+LK4303,2,Vavuniya North,Northern,0.4093963050388494,Club 2
+LK4306,2,Vavuniya South,Northern,0.5088622206978691,Club 2
+LK4309,2,Vavuniya,Northern,0.6682055103095159,Club 2
+LK4403,2,Thunukkai,Northern,0.4270248241229751,Club 2
+LK4406,2,Manthai East,Northern,0.4018093134218456,Club 2
+LK4409,2,Puthukkudiyiruppu,Northern,0.58280298719242,Club 2
+LK4412,2,Oddusuddan,Northern,0.4458122938056342,Club 2
+LK4415,2,Maritimepattu,Northern,0.4536374715954348,Club 2
+LK4503,2,Pachchilaipalli,Northern,0.5894215569308044,Club 2
+LK4506,2,Kandavalai,Northern,0.5236577481027809,Club 2
+LK4509,2,Karachchi,Northern,0.6892998108552361,Club 2
+LK4512,2,Poonakary,Northern,0.4430590169265923,Club 2
+LK5103,2,Koralai Pattu North,Eastern,0.4774803825703814,Club 2
+LK5104,2,Koralai Pattu Central,Eastern,4.035824464542631,Club 2
+LK5106,2,Koralai Pattu West,Eastern,1.84078914381648,Club 2
+LK5109,2,Koralai Pattu,Eastern,2.1713902534791862,Club 2
+LK5110,2,Koralai Pattu South,Eastern,0.4485184702615066,Club 2
+LK5115,2,Eravur Pattu,Eastern,0.5930195778039903,Club 2
+LK5118,2,Manmunai North,Eastern,2.939116378941529,Club 2
+LK5121,2,Manmunai West,Eastern,0.6016188417514932,Club 2
+LK5127,2,Manmunai Pattu,Eastern,2.372783186324109,Club 2
+LK5136,2,Manmunai South & Eruvil Pattu,Eastern,1.7129660974887162,Club 2
+LK5206,2,Padiyathalawa,Eastern,0.3880871356193158,Club 2
+LK5221,2,Kalmunai,Eastern,3.931801201297317,Club 2
+LK5227,2,Karaitivu,Eastern,2.422007270781452,Club 2
+LK5230,2,Nintavur,Eastern,1.9832476253277216,Club 2
+LK5233,2,Addalaichenai,Eastern,1.3285404086882304,Club 2
+LK5234,2,Irakkamam,Eastern,0.8145591486703104,Club 2
+LK5236,2,Akkaraipattu,Eastern,1.4991102333615922,Club 2
+LK5251,2,Lahugala,Eastern,0.3407163699798698,Club 2
+LK5303,2,Padavi Sri Pura,Eastern,0.4288604118490451,Club 2
+LK5309,2,Gomarankadawala,Eastern,0.3943091394552336,Club 2
+LK5315,2,Town & Gravets,Eastern,1.5287355293676832,Club 2
+LK5324,2,Kinniya,Eastern,0.946105912256148,Club 2
+LK5327,2,Muthur,Eastern,0.8192964636745259,Club 2
+LK6115,2,Kotawehera,North Western,0.5506400941400856,Club 2
+LK6118,2,Rasnayakapura,North Western,0.6927359530657924,Club 2
+LK6142,2,Bingiriya,North Western,0.8628626877407187,Club 2
+LK6145,2,Panduwasnuwara West,North Western,0.780445023147578,Club 2
+LK6154,2,Kurunegala,North Western,2.038854157032969,Club 2
+LK6157,2,Mallawapitiya,North Western,1.412781881693147,Club 2
+LK6166,2,Weerabugedara,North Western,0.7358295668855795,Club 2
+LK6169,2,Kuliyapitiya East,North Western,0.8396648188826638,Club 2
+LK6172,2,Kuliyapitiya West,North Western,1.10586757173992,Club 2
+LK6175,2,Udubaddawa,North Western,1.1667977787693442,Club 2
+LK6181,2,Narammala,North Western,0.9502915962049496,Club 2
+LK6187,2,Polgahawela,North Western,0.9376303091866,Club 2
+LK6203,2,Kalpitiya,North Western,1.4543082951345996,Club 2
+LK6206,2,Vanathavilluwa,North Western,0.4281113422419576,Club 2
+LK6209,2,Karuwalagaswewa,North Western,0.4538813959912629,Club 2
+LK6212,2,Nawagattegama,North Western,0.4882641168608452,Club 2
+LK6215,2,Puttalam,North Western,1.9651010612758884,Club 2
+LK6218,2,Mundel,North Western,1.338169266028532,Club 2
+LK6221,2,Mahakumbukkadawala,North Western,0.771980543957958,Club 2
+LK6224,2,Anamaduwa,North Western,0.6325744282965993,Club 2
+LK6227,2,Pallama,North Western,0.8798414584704294,Club 2
+LK6230,2,Arachchikattuwa,North Western,1.0082126530128026,Club 2
+LK6242,2,Nattandiya,North Western,1.6646051968249589,Club 2
+LK6245,2,Wennappuwa,North Western,2.940105925083335,Club 2
+LK6248,2,Dankotuwa,North Western,1.8285437009381724,Club 2
+LK7106,2,Kebithigollewa,North Central,0.3902592630269937,Club 2
+LK7112,2,Mahawilachchiya,North Central,0.421178189257708,Club 2
+LK7121,2,Kahatagasdigiliya,North Central,0.456373817473157,Club 2
+LK7124,2,Horowpathana,North Central,0.3840074693143951,Club 2
+LK7127,2,Galenbidunuwewa,North Central,0.4597503007600709,Club 2
+LK7133,2,Nuwaragam Palatha East,North Central,1.81989001848454,Club 2
+LK7139,2,Nochchiyagama,North Central,0.3938330483974326,Club 2
+LK7157,2,Palugaswewa,North Central,0.5827525545837642,Club 2
+LK7210,2,Welikanda,North Central,0.5235951852605054,Club 2
+LK8121,2,Badulla,Uva,1.259225181006626,Club 2
+LK9154,2,Kalthota,Sabaragamuwa,0.5478781398385608,Club 2
+LK1312,3,Bulathsinhala,Western,0.6468597510692767,Club 3
+LK1315,3,Madurawala,Western,1.081637687458129,Club 3
+LK1327,3,Dodangoda,Western,1.0888916108410445,Club 3
+LK1330,3,Matugama,Western,1.0050175490303372,Club 3
+LK1333,3,Agalawatta,Western,0.6154952216120426,Club 3
+LK1336,3,Palindanuwara,Western,0.4552742109463896,Club 3
+LK1339,3,Walallawita,Western,0.5143853725790367,Club 3
+LK2103,3,Tumpane,Central,0.5736094771776046,Club 3
+LK2106,3,Poojapitiya,Central,0.6737980909918662,Club 3
+LK2115,3,Panvila,Central,0.4363147431212679,Club 3
+LK2118,3,Ududumbara,Central,0.4266824567555103,Club 3
+LK2121,3,Minipe,Central,0.5033758955536789,Club 3
+LK2124,3,Medadumbara,Central,0.5150665376903865,Club 3
+LK2133,3,Harispattuwa,Central,1.0284338661346346,Club 3
+LK2134,3,Hatharaliyadda,Central,0.5070782289407179,Club 3
+LK2136,3,Yatinuwara,Central,1.0355338531318663,Club 3
+LK2139,3,Udunuwara,Central,0.9561694442376338,Club 3
+LK2142,3,Doluwa,Central,0.6442593890134166,Club 3
+LK2145,3,Pathahewaheta,Central,0.6247492274782213,Club 3
+LK2148,3,Deltota,Central,0.5656885265161361,Club 3
+LK2154,3,Ganga Ihala Korale,Central,0.5996431539373215,Club 3
+LK2157,3,Pasbagekorale,Central,0.5522450038486109,Club 3
+LK2206,3,Dambulla,Central,0.7168600053773698,Club 3
+LK2209,3,Naula,Central,0.4822322953324487,Club 3
+LK2224,3,Laggala,Central,0.4141583556055566,Club 3
+LK2227,3,Wilgamuwa,Central,0.4210375277638989,Club 3
+LK2303,3,Kothmale East,Central,0.4953623613457734,Club 3
+LK2306,3,Hanguranketa,Central,0.5239093483498594,Club 3
+LK2309,3,Nildandahinna,Central,0.4179725777525176,Club 3
+LK2312,3,Nuwara Eliya,Central,0.7757734428483153,Club 3
+LK2315,3,Ambagamuwa Korale,Central,0.5244205300610261,Club 3
+LK2318,3,Mathurata,Central,0.4350987967962132,Club 3
+LK2321,3,Kothmale West,Central,0.5444501381318191,Club 3
+LK2324,3,Walapane,Central,0.4659492079581053,Club 3
+LK2327,3,Thalawakele,Central,0.5472553203901163,Club 3
+LK2330,3,Norwood,Central,0.5338283240048757,Club 3
+LK3109,3,Karandeniya,Southern,1.0283753640725677,Club 3
+LK3112,3,Elpitiya,Southern,0.7834550652696323,Club 3
+LK3115,3,Niyagama,Southern,0.6097341899442316,Club 3
+LK3118,3,Thawalama,Southern,0.4431876133362188,Club 3
+LK3121,3,Neluwa,Southern,0.451122436451753,Club 3
+LK3124,3,Nagoda,Southern,0.53762329242889,Club 3
+LK3127,3,Baddegama,Southern,1.0466692515854503,Club 3
+LK3130,3,Welivitiya-Divitura,Southern,0.7948967670711603,Club 3
+LK3148,3,Yakkalamulla,Southern,0.5822086538966654,Club 3
+LK3151,3,Imaduwa,Southern,1.062690448750934,Club 3
+LK3157,3,Wanduramba,Southern,0.6990575539796092,Club 3
+LK3203,3,Pitabaddara,Southern,0.5015606384518302,Club 3
+LK3206,3,Kotapola,Southern,0.5036991413268795,Club 3
+LK3209,3,Pasgoda,Southern,0.5022911579347367,Club 3
+LK3212,3,Mulatiyana,Southern,0.5536304948167444,Club 3
+LK3215,3,Athuraliya,Southern,0.6033272963093975,Club 3
+LK3218,3,Akuressa,Southern,0.5273752972953573,Club 3
+LK3221,3,Welipitiya,Southern,1.1248378690780136,Club 3
+LK3230,3,Hakmana,Southern,0.6696194415575535,Club 3
+LK3233,3,Kirinda Puhulwella,Southern,0.6109828208261731,Club 3
+LK3248,3,Dikwella,Southern,1.0345957114641335,Club 3
+LK3306,3,Lunugamwehera,Southern,0.6176680354896231,Club 3
+LK3309,3,Thissamaharama,Southern,0.4507252182674183,Club 3
+LK3321,3,Weeraketiya,Southern,0.690596651374312,Club 3
+LK3324,3,Katuwana,Southern,0.5734806201630289,Club 3
+LK3325,3,Walasmulla,Southern,0.557874722704466,Club 3
+LK3327,3,Okewela,Southern,0.6134272545975926,Club 3
+LK4312,3,Vengalacheddikulam,Northern,0.4718079945238068,Club 3
+LK4418,3,Welioya,Northern,0.4038059781481183,Club 3
+LK5130,3,Manmunai South West,Eastern,0.6304337727753625,Club 3
+LK5133,3,Porativu Pattu,Eastern,0.7630803407931578,Club 3
+LK5203,3,Dehiattakandiya,Eastern,0.4604484943109612,Club 3
+LK5209,3,Mahaoya,Eastern,0.392612339763057,Club 3
+LK5212,3,Uhana,Eastern,0.4371971411427213,Club 3
+LK5215,3,Ampara,Eastern,0.6871864651416703,Club 3
+LK5216,3,Navithanveli,Eastern,0.8515317638969769,Club 3
+LK5218,3,Sammanthurai,Eastern,0.9734232462955276,Club 3
+LK5239,3,Alayadivembu,Eastern,0.8236771614618181,Club 3
+LK5242,3,Damana,Eastern,0.432445852522066,Club 3
+LK5245,3,Tirukkovil,Eastern,0.458336830903709,Club 3
+LK5248,3,Pottuvil,Eastern,0.514056231513694,Club 3
+LK5306,3,Kuchchaweli,Eastern,0.5188987070207177,Club 3
+LK5312,3,Morawewa,Eastern,0.423366803491302,Club 3
+LK5318,3,Thambalagamuwa,Eastern,0.4587806552076749,Club 3
+LK5321,3,Kantale,Eastern,0.4569931232576132,Club 3
+LK5330,3,Seruvila,Eastern,0.4541445571716429,Club 3
+LK5333,3,Verugal,Eastern,0.5095664020741364,Club 3
+LK6103,3,Giribawa,North Western,0.4673870716361367,Club 3
+LK6106,3,Galgamuwa,North Western,0.5703796534217277,Club 3
+LK6109,3,Ehetuwewa,North Western,0.5315892185660666,Club 3
+LK6112,3,Ambanpola,North Western,0.562352209681927,Club 3
+LK6121,3,Nikaweratiya,North Western,0.658476713636687,Club 3
+LK6124,3,Maho,North Western,0.5831692914287366,Club 3
+LK6127,3,Polpitigama,North Western,0.5482281105796117,Club 3
+LK6130,3,Ibbagamuwa,North Western,0.7115328036436112,Club 3
+LK6133,3,Ganewatta,North Western,0.6226693236377299,Club 3
+LK6136,3,Wariyapola,North Western,0.7060552082247528,Club 3
+LK6139,3,Kobeigane,North Western,0.7181658117441382,Club 3
+LK6148,3,Panduwasnuwara East,North Western,0.6378080682811733,Club 3
+LK6149,3,Bamunakotuwa,North Western,0.6469154972828521,Club 3
+LK6151,3,Maspotha,North Western,0.939964895678538,Club 3
+LK6160,3,Mawathagama,North Western,0.9623554083122616,Club 3
+LK6163,3,Rideegama,North Western,0.5907226901385084,Club 3
+LK6178,3,Pannala,North Western,1.0749077913239404,Club 3
+LK6184,3,Alawwa,North Western,0.7771426170644781,Club 3
+LK6233,3,Chilaw,North Western,1.5460623382296592,Club 3
+LK6236,3,Madampe,North Western,1.3918677406237236,Club 3
+LK6239,3,Mahawewa,North Western,1.439484760632147,Club 3
+LK7103,3,Padaviya,North Central,0.421353433032346,Club 3
+LK7109,3,Medawachchiya,North Central,0.4539137609483605,Club 3
+LK7115,3,Nuwaragam Palatha Central,North Central,0.7802516363029537,Club 3
+LK7118,3,Rambewa,North Central,0.4624045131132059,Club 3
+LK7130,3,Mihinthale,North Central,0.6031082594381836,Club 3
+LK7136,3,Nachchaduwa,North Central,0.6241006554651597,Club 3
+LK7142,3,Rajanganaya,North Central,0.527384612978717,Club 3
+LK7145,3,Thambuththegama,North Central,0.6234557223712464,Club 3
+LK7148,3,Thalawa,North Central,0.5433468987350072,Club 3
+LK7151,3,Thirappane,North Central,0.47842314486749,Club 3
+LK7154,3,Kekirawa,North Central,0.5678943250797915,Club 3
+LK7160,3,Ipalogama,North Central,0.537049667495508,Club 3
+LK7163,3,Galnewa,North Central,0.4988030963181249,Club 3
+LK7166,3,Palagala,North Central,0.5253141817976666,Club 3
+LK7203,3,Higurakgoda,North Central,0.463574259737642,Club 3
+LK7206,3,Medirigiriya,North Central,0.4238822178292927,Club 3
+LK7209,3,Lankapura,North Central,0.5091937648448588,Club 3
+LK7212,3,Dimbulagala,North Central,0.5051506436046923,Club 3
+LK7215,3,Thamankaduwa,North Central,0.6278831620944038,Club 3
+LK7218,3,Elahera,North Central,0.5094860310965246,Club 3
+LK8103,3,Mahiyanganaya,Uva,0.5161759961780185,Club 3
+LK8106,3,Rideemaliyadda,Uva,0.4529580770138515,Club 3
+LK8109,3,Meegahakiula,Uva,0.4909829118957757,Club 3
+LK8112,3,Kandeketiya,Uva,0.4472749194290517,Club 3
+LK8115,3,Soranathota,Uva,0.4003892786837471,Club 3
+LK8118,3,Passara,Uva,0.5255280568965034,Club 3
+LK8119,3,Lunugala,Uva,0.4969006625166526,Club 3
+LK8124,3,Hali-Ela,Uva,0.5755854322978691,Club 3
+LK8127,3,Uvaparanagama,Uva,0.5013983521200305,Club 3
+LK8130,3,Welimada,Uva,0.6415467037015486,Club 3
+LK8133,3,Bandarawela,Uva,0.8103151170092309,Club 3
+LK8136,3,Ella,Uva,0.6228311404882697,Club 3
+LK8139,3,Haputale,Uva,0.7702238348704585,Club 3
+LK8142,3,Haldummulla,Uva,0.43156375014256,Club 3
+LK8203,3,Bibile,Uva,0.4028439402518238,Club 3
+LK8206,3,Madulla,Uva,0.3708358019477591,Club 3
+LK8209,3,Medagama,Uva,0.4600358293294453,Club 3
+LK8212,3,Siyambalanduwa,Uva,0.3835143049843771,Club 3
+LK8215,3,Monaragala,Uva,0.490676848746125,Club 3
+LK8218,3,Badalkumbura,Uva,0.4554879922024131,Club 3
+LK8221,3,Wellawaya,Uva,0.4899463219640743,Club 3
+LK8224,3,Buttala,Uva,0.4378997183696433,Club 3
+LK8227,3,Katharagama,Uva,0.4420027253226528,Club 3
+LK8230,3,Thanamalwila,Uva,0.416236001840605,Club 3
+LK8233,3,Sevanagala,Uva,0.5727550719240719,Club 3
+LK9103,3,Eheliyagoda,Sabaragamuwa,0.7148684969912892,Club 3
+LK9106,3,Kuruvita,Sabaragamuwa,0.755897798529665,Club 3
+LK9109,3,Kiriella,Sabaragamuwa,0.6265759886051209,Club 3
+LK9112,3,Ratnapura,Sabaragamuwa,0.6680106291860963,Club 3
+LK9115,3,Imbulpe,Sabaragamuwa,0.4770173110416145,Club 3
+LK9118,3,Balangoda,Sabaragamuwa,0.6349874247813706,Club 3
+LK9121,3,Opanayake,Sabaragamuwa,0.5081437981257243,Club 3
+LK9124,3,Pelmadulla,Sabaragamuwa,0.7231661480276413,Club 3
+LK9127,3,Elapatha,Sabaragamuwa,0.5460619120564314,Club 3
+LK9130,3,Ayagama,Sabaragamuwa,0.464723543852496,Club 3
+LK9133,3,Kalawana,Sabaragamuwa,0.4142573491329455,Club 3
+LK9136,3,Nivithigala,Sabaragamuwa,0.5365747708612635,Club 3
+LK9139,3,Kahawattha,Sabaragamuwa,0.4923390673741781,Club 3
+LK9142,3,Godakawela,Sabaragamuwa,0.5898021556066283,Club 3
+LK9145,3,Weligepola,Sabaragamuwa,0.4640063434318102,Club 3
+LK9148,3,Embilipitiya,Sabaragamuwa,0.7242117442283901,Club 3
+LK9151,3,Kolonna,Sabaragamuwa,0.4661445264925219,Club 3
+LK9203,3,Rambukkana,Sabaragamuwa,0.7337373804338395,Club 3
+LK9206,3,Mawanella,Sabaragamuwa,0.8242816129031594,Club 3
+LK9209,3,Aranayake,Sabaragamuwa,0.508576098423155,Club 3
+LK9212,3,Kegalle,Sabaragamuwa,0.8389707511885565,Club 3
+LK9215,3,Galigamuwa,Sabaragamuwa,0.6091500730477085,Club 3
+LK9218,3,Warakapola,Sabaragamuwa,0.7605669310492079,Club 3
+LK9221,3,Ruwanwella,Sabaragamuwa,0.6891773084958389,Club 3
+LK9224,3,Bulathkohipitiya,Sabaragamuwa,0.4814839034658616,Club 3
+LK9227,3,Yatiyantota,Sabaragamuwa,0.5103298737623796,Club 3
+LK9230,3,Dehiowita,Sabaragamuwa,0.6359796621740694,Club 3
+LK9233,3,Deraniyagala,Sabaragamuwa,0.4263622392151238,Club 3
