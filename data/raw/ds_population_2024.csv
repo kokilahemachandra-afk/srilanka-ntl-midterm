@@ -1,0 +1,340 @@
+geo_id,name,district,census_code,census_name,score,pop_2024
+LK1103,Colombo,Colombo,LK1103,Colombo,1.0,292089
+LK1106,Kolonnawa,Colombo,LK1106,Kolonnawa,1.0,214070
+LK1109,Kaduwela,Colombo,LK1109,Kaduwela,1.0,277918
+LK1112,Homagama,Colombo,LK1112,Homagama,1.0,280771
+LK1115,Seethawaka,Colombo,LK1115,Seethawaka,1.0,122128
+LK1118,Padukka,Colombo,LK1118,Padukka,1.0,73014
+LK1121,Maharagama,Colombo,LK1121,Maharagama,1.0,196500
+LK1124,Sri Jayawardanapura Kotte,Colombo,LK1124,Sri Jayawardanapura Kotte,1.0,96189
+LK1127,Thimbirigasyaya,Colombo,LK1127,Thimbirigasyaya,1.0,217118
+LK1130,Dehiwala,Colombo,LK1130,Dehiwala,1.0,93815
+LK1131,Ratmalana,Colombo,LK1131,Ratmalana,1.0,88063
+LK1133,Moratuwa,Colombo,LK1133,Moratuwa,1.0,160199
+LK1136,Kesbewa,Colombo,LK1136,Kesbewa,1.0,263541
+LK1203,Negombo,Gampaha,LK1203,Negombo,1.0,137952
+LK1206,Katana,Gampaha,LK1206,Katana,1.0,241219
+LK1209,Divulapitiya,Gampaha,LK1209,Divulapitiya,1.0,156957
+LK1212,Mirigama,Gampaha,LK1212,Mirigama,1.0,176747
+LK1215,Minuwangoda,Gampaha,LK1215,Minuwangoda,1.0,198774
+LK1218,Wattala,Gampaha,LK1218,Wattala,1.0,182505
+LK1221,Ja Ela,Gampaha,LK1221,Ja-Ela,1.0,204806
+LK1224,Gampaha,Gampaha,LK1224,Gampaha,1.0,205610
+LK1227,Attanagalla,Gampaha,LK1227,Attanagalla,1.0,197725
+LK1230,Dompe,Gampaha,LK1230,Dompe,1.0,169877
+LK1233,Mahara,Gampaha,LK1233,Mahara,1.0,223060
+LK1236,Kelaniya,Gampaha,LK1236,Kelaniya,1.0,133755
+LK1239,Biyagama,Gampaha,LK1239,Biyagama,1.0,207155
+LK1303,Panadura,Kalutara,LK1303,Panadura,1.0,187475
+LK1306,Bandaragama,Kalutara,LK1306,Bandaragama,1.0,124133
+LK1309,Horana,Kalutara,LK1309,Horana,1.0,133685
+LK1310,Ingiriya,Kalutara,LK1310,Ingiriya,1.0,58361
+LK1312,Bulathsinhala,Kalutara,LK1312,Bulathsinhala,1.0,65550
+LK1315,Madurawala,Kalutara,LK1315,Madurawala,1.0,36723
+LK1318,Millaniya,Kalutara,LK1318,Millaniya,1.0,56166
+LK1321,Kalutara,Kalutara,LK1321,Kalutara,1.0,166624
+LK1324,Beruwala,Kalutara,LK1324,Beruwala,1.0,180820
+LK1327,Dodangoda,Kalutara,LK1327,Dodangoda,1.0,67089
+LK1330,Matugama,Kalutara,LK1330,Mathugama,0.94,86065
+LK1333,Agalawatta,Kalutara,LK1333,Agalawatta,1.0,36589
+LK1336,Palindanuwara,Kalutara,LK1336,Palindanuwara,1.0,51171
+LK1339,Walallawita,Kalutara,LK1339,Walallavita,0.91,55333
+LK2103,Tumpane,Kandy,LK2103,Thumpane,0.93,38776
+LK2106,Poojapitiya,Kandy,LK2106,Pujapitiya,0.86,60316
+LK2109,Akurana,Kandy,LK2109,Akurana,1.0,71010
+LK2112,Pathadumbara,Kandy,LK2112,Pathadumbara,1.0,93476
+LK2115,Panvila,Kandy,LK2115,Panvila,1.0,25650
+LK2118,Ududumbara,Kandy,LK2118,Udadumbara,0.9,23046
+LK2121,Minipe,Kandy,LK2121,Minipe,1.0,55342
+LK2124,Medadumbara,Kandy,LK2124,Medadumbara,1.0,64539
+LK2127,Kundasale,Kandy,LK2127,Kundasale,1.0,144383
+LK2130,Gangawata Korale,Kandy,LK2130,Kandy Four Gravets & Gangawata Korale,0.84,153329
+LK2133,Harispattuwa,Kandy,LK2133,Harispattuwa,1.0,94021
+LK2134,Hatharaliyadda,Kandy,LK2134,Hatharaliyadda,1.0,31141
+LK2136,Yatinuwara,Kandy,LK2136,Yatinuwara,1.0,112642
+LK2139,Udunuwara,Kandy,LK2139,Udunuwara,1.0,121018
+LK2142,Doluwa,Kandy,LK2142,Doluwa,1.0,52784
+LK2145,Pathahewaheta,Kandy,LK2145,Pathahewaheta,1.0,60639
+LK2148,Deltota,Kandy,LK2148,Deltota,1.0,31904
+LK2151,Udapalatha,Kandy,LK2151,Udapalatha,1.0,103181
+LK2154,Ganga Ihala Korale,Kandy,LK2154,Ganga Ihala Korale,1.0,59145
+LK2157,Pasbagekorale,Kandy,LK2157,Pasbage Korale,1.0,65553
+LK2203,Galewela,Matale,LK2203,Galewela,1.0,78639
+LK2206,Dambulla,Matale,LK2206,Dambulla,1.0,81239
+LK2209,Naula,Matale,LK2209,Naula,1.0,30718
+LK2212,Pallepola,Matale,LK2212,Pallepola,1.0,31629
+LK2215,Yatawatta,Matale,LK2215,Yatawatta,1.0,32415
+LK2218,Matale,Matale,LK2218,Matale,1.0,80376
+LK2221,Ambanganga,Matale,LK2221,Ambanganga Korale,0.77,15876
+LK2224,Laggala,Matale,LK2224,Laggala-Pallegama,0.61,16300
+LK2227,Wilgamuwa,Matale,LK2227,Wilgamuwa,1.0,33715
+LK2230,Rattota,Matale,LK2230,Rattota,1.0,53650
+LK2233,Ukuwela,Matale,LK2233,Ukuwela,1.0,72313
+LK2303,Kothmale East,Nuwara Eliya,LK2303,Kothmale East,1.0,61742
+LK2306,Hanguranketa,Nuwara Eliya,LK2306,Hanguranketha,0.96,58931
+LK2309,Nildandahinna,Nuwara Eliya,LK2310,Nildandahinna,1.0,42422
+LK2312,Nuwara Eliya,Nuwara Eliya,LK2312,Nuwara Eliya,1.0,88332
+LK2315,Ambagamuwa Korale,Nuwara Eliya,LK2315,Ambagamuwa Koralaya,0.88,42538
+LK2318,Mathurata,Nuwara Eliya,LK2307,Mathurata,1.0,33175
+LK2321,Kothmale West,Nuwara Eliya,LK2302,Kothmale West,1.0,41955
+LK2324,Walapane,Nuwara Eliya,LK2309,Walapane,1.0,65287
+LK2327,Thalawakele,Nuwara Eliya,LK2313,Thalawakelle,0.96,129531
+LK2330,Norwood,Nuwara Eliya,LK2314,Norwood,1.0,161367
+LK3103,Bentota,Galle,LK3103,Bentota,1.0,49650
+LK3106,Balapitiya,Galle,LK3106,Balapitiya,1.0,68150
+LK3109,Karandeniya,Galle,LK3109,Karandeniya,1.0,63862
+LK3112,Elpitiya,Galle,LK3112,Elpitiya,1.0,66671
+LK3115,Niyagama,Galle,LK3115,Niyagama,1.0,35751
+LK3118,Thawalama,Galle,LK3118,Thawalama,1.0,30989
+LK3121,Neluwa,Galle,LK3121,Neluwa,1.0,27746
+LK3124,Nagoda,Galle,LK3124,Nagoda,1.0,52031
+LK3127,Baddegama,Galle,LK3127,Baddegama,1.0,50956
+LK3130,Welivitiya-Divitura,Galle,LK3130,Welivitiya-Divithura,0.97,29356
+LK3133,Ambalangoda,Galle,LK3133,Ambalangoda,1.0,59617
+LK3134,Gonapinuwala,Galle,LK3134,Gonapeenuwala,0.88,23271
+LK3136,Hikkaduwa,Galle,LK3136,Hikkaduwa,1.0,26216
+LK3139,Galle 4 Gravets,Galle,LK3139,Galle Four Gravets,0.86,108321
+LK3142,Bope-Poddala,Galle,LK3142,Bope-Poddala,1.0,57890
+LK3145,Akmeemana,Galle,LK3145,Akmeemana,1.0,86136
+LK3148,Yakkalamulla,Galle,LK3148,Yakkalamulla,1.0,46687
+LK3151,Imaduwa,Galle,LK3151,Imaduwa,1.0,48204
+LK3154,Habaraduwa,Galle,LK3154,Habaraduwa,1.0,63302
+LK3157,Wanduramba,Galle,LK3128,Wanduramba,1.0,27702
+LK3160,Madampagama,Galle,LK3135,Madampagama,1.0,33408
+LK3163,Rathgama,Galle,LK3137,Rathgama,1.0,41456
+LK3203,Pitabaddara,Matara,LK3203,Pitabeddara,0.91,48867
+LK3206,Kotapola,Matara,LK3206,Kotapola,1.0,61002
+LK3209,Pasgoda,Matara,LK3209,Pasgoda,1.0,61171
+LK3212,Mulatiyana,Matara,LK3212,Mulatiyana,1.0,51832
+LK3215,Athuraliya,Matara,LK3215,Athuraliya,1.0,32811
+LK3218,Akuressa,Matara,LK3218,Akuressa,1.0,53638
+LK3221,Welipitiya,Matara,LK3221,Welipitiya,1.0,55960
+LK3224,Malimbada,Matara,LK3224,Malimbada,1.0,36128
+LK3227,Kaburupitiya,Matara,LK3227,Kamburupitiya,0.96,42816
+LK3230,Hakmana,Matara,LK3230,Hakmana,1.0,32985
+LK3233,Kirinda Puhulwella,Matara,LK3233,Kirinda Puhulwella,1.0,20627
+LK3236,Thihagoda,Matara,LK3236,Thihagoda,1.0,34306
+LK3239,Weligama,Matara,LK3239,Weligama,1.0,76136
+LK3242,Matara Four Gravets,Matara,LK3242,Matara Four Gravets,1.0,123868
+LK3245,Devinuwara,Matara,LK3245,Devinuwara,1.0,49274
+LK3248,Dikwella,Matara,LK3248,Dickwella,0.94,56468
+LK3303,Sooriyawewa,Hambantota,LK3303,Sooriyawewa,1.0,52709
+LK3306,Lunugamwehera,Hambantota,LK3306,Lunugamvehera,0.92,36923
+LK3309,Thissamaharama,Hambantota,LK3309,Thissamaharama,1.0,74175
+LK3312,Hambantota,Hambantota,LK3312,Hambantota,1.0,67207
+LK3315,Ambalantota,Hambantota,LK3315,Ambalantota,1.0,80506
+LK3318,Angunakolapelessa,Hambantota,LK3318,Angunakolapelessa,1.0,53409
+LK3321,Weeraketiya,Hambantota,LK3321,Weeraketiya,1.0,48241
+LK3324,Katuwana,Hambantota,LK3324,Katuwana,1.0,52169
+LK3325,Walasmulla,Hambantota,LK3325,Walasmulla,1.0,47869
+LK3327,Okewela,Hambantota,LK3327,Okewela,1.0,19992
+LK3330,Beliatta,Hambantota,LK3330,Beliatta,1.0,58675
+LK3333,Tangalle,Hambantota,LK3333,Tangalle,1.0,79543
+LK4103,Islands North (Kayts),Jaffna,LK4103,Island North (Kayts),0.96,9931
+LK4104,Karainagar,Jaffna,LK4104,Karainagar,1.0,9131
+LK4106,Valikamam West (Chankanai),Jaffna,LK4106,Valikamam West (Chankanai),1.0,45160
+LK4109,Valikamam South West (Sandilipay),Jaffna,LK4109,Valikamam South-West (Sandilipay),1.0,52121
+LK4112,Valikamam North (Thllippalai),Jaffna,LK4112,Valikamam North (Tellipallai),1.0,44914
+LK4115,Valikamam South (Uduvil),Jaffna,LK4115,Valikamam South (Uduvil),1.0,50540
+LK4118,Valikamam East (Kopay),Jaffna,LK4118,Valikamam East (Kopay),1.0,75979
+LK4121,Vadamaradchchi South-West (Karaveddy),Jaffna,LK4121,Vadamaradchi South-West (Karaveddy),0.95,41102
+LK4124,Vadamaradchchi East,Jaffna,LK4124,Vadamaradchi East,0.94,13537
+LK4127,Vadamaradchi North (Point Pedro),Jaffna,LK4127,Vadamaradchi North (Point Pedro),1.0,43369
+LK4130,Thenmaradchi (Chavakachcheri),Jaffna,LK4130,Thenmaradchi (Chavakachcheri),1.0,67782
+LK4133,Nallur,Jaffna,LK4133,Nallur,1.0,72884
+LK4136,Jaffna,Jaffna,LK4136,Jaffna,1.0,48543
+LK4139,Islands South (Velanai),Jaffna,LK4139,Island South (Velanai),0.96,16600
+LK4142,Delft,Jaffna,LK4142,Delft,1.0,3158
+LK4203,Mannar Town,Mannar,LK4203,Mannar Town,1.0,57772
+LK4206,Manthai West,Mannar,LK4206,Manthai West,1.0,18674
+LK4209,Madhu,Mannar,LK4209,Madhu,1.0,9493
+LK4212,Nanaddan,Mannar,LK4212,Nanattan,0.75,19674
+LK4215,Musali,Mannar,LK4215,Musali,1.0,18143
+LK4303,Vavuniya North,Vavuniya,LK4303,Vavuniya North,1.0,14709
+LK4306,Vavuniya South,Vavuniya,LK4306,Vavuniya South,1.0,14842
+LK4309,Vavuniya,Vavuniya,LK4309,Vavuniya,1.0,116991
+LK4312,Vengalacheddikulam,Vavuniya,LK4312,Vengalacheddikulam,1.0,25770
+LK4403,Thunukkai,Mullaitivu,LK4403,Thunukkai,1.0,10410
+LK4406,Manthai East,Mullaitivu,LK4406,Manthai East,1.0,7650
+LK4409,Puthukkudiyiruppu,Mullaitivu,LK4409,Puthukkudiyiruppu,1.0,39532
+LK4412,Oddusuddan,Mullaitivu,LK4412,Oddusuddan,1.0,18149
+LK4415,Maritimepattu,Mullaitivu,LK4415,Maritimepattu,1.0,36813
+LK4418,Welioya,Mullaitivu,LK4418,Welioya,1.0,10065
+LK4503,Pachchilaipalli,Kilinochchi,LK4503,Pachchilaipalli,1.0,13045
+LK4506,Kandavalai,Kilinochchi,LK4506,Kandavalai,1.0,24921
+LK4509,Karachchi,Kilinochchi,LK4509,Karachchi,1.0,74631
+LK4512,Poonakary,Kilinochchi,LK4512,Poonakary,1.0,24113
+LK5103,Koralai Pattu North,Batticaloa,LK5103,Koralai Pattu North (Vaharai),1.0,25475
+LK5104,Koralai Pattu Central,Batticaloa,LK5104,Koralai Pattu Central,1.0,30603
+LK5106,Koralai Pattu West,Batticaloa,LK5106,Koralai Pattu West (Oddamavadi),1.0,24583
+LK5109,Koralai Pattu,Batticaloa,LK5109,Koralai Pattu (Valachchenai),1.0,28762
+LK5110,Koralai Pattu South,Batticaloa,LK5110,Koralai Pattu South (Kiran),1.0,28302
+LK5115,Eravur Pattu,Batticaloa,LK5112,Eravur Pattu,1.0,94237
+LK5118,Manmunai North,Batticaloa,LK5118,Manmunai North,1.0,95107
+LK5121,Manmunai West,Batticaloa,LK5121,Manmunai West,1.0,32831
+LK5124,Kattankudy,Batticaloa,LK5124,Kattankudy,1.0,44794
+LK5127,Manmunai Pattu,Batticaloa,LK5127,Manmunai Pattu (Araipattai),1.0,36533
+LK5130,Manmunai South West,Batticaloa,LK5130,Manmunai South-West,1.0,26676
+LK5133,Porativu Pattu,Batticaloa,LK5133,Porativu Pattu,1.0,38627
+LK5136,Manmunai South & Eruvil Pattu,Batticaloa,LK5136,Manmunai South & Eruvil pattu,1.0,62920
+LK5139,Eravur Town,Batticaloa,LK5115,Eravur Town,1.0,26468
+LK5203,Dehiattakandiya,Ampara,LK5203,Dehiattakandiya,1.0,67274
+LK5206,Padiyathalawa,Ampara,LK5206,Padiyathalawa,1.0,20834
+LK5209,Mahaoya,Ampara,LK5209,Mahaoya,1.0,23715
+LK5212,Uhana,Ampara,LK5212,Uhana,1.0,62216
+LK5215,Ampara,Ampara,LK5215,Ampara,1.0,47868
+LK5216,Navithanveli,Ampara,LK5216,Navithanveli,1.0,21856
+LK5218,Sammanthurai,Ampara,LK5218,Samanthurai,0.96,72794
+LK5221,Kalmunai,Ampara,LK5224,Kalmunai,1.0,84354
+LK5225,Sainthamaruthu,Ampara,LK5225,Sainthamaruthu,1.0,29873
+LK5227,Karaitivu,Ampara,LK5227,Karaitheevu,0.8,19493
+LK5230,Nintavur,Ampara,LK5230,Ninthavur,0.94,30671
+LK5233,Addalaichenai,Ampara,LK5233,Addalachchenai,0.89,53214
+LK5234,Irakkamam,Ampara,LK5234,Irakkamam,1.0,17671
+LK5236,Akkaraipattu,Ampara,LK5236,Akkaraipattu,1.0,44979
+LK5239,Alayadivembu,Ampara,LK5239,Alayadiwembu,0.92,24838
+LK5242,Damana,Ampara,LK5242,Damana,1.0,40325
+LK5245,Tirukkovil,Ampara,LK5245,Thirukkovil,0.95,29252
+LK5248,Pottuvil,Ampara,LK5248,Pothuvil,0.88,42908
+LK5251,Lahugala,Ampara,LK5251,Lahugala,1.0,10416
+LK5303,Padavi Sri Pura,Trincomalee,LK5303,Padavi Sri Pura,1.0,12081
+LK5306,Kuchchaweli,Trincomalee,LK5306,Kuchchaveli,0.91,39873
+LK5309,Gomarankadawala,Trincomalee,LK5309,Gomarankadawala,1.0,8398
+LK5312,Morawewa,Trincomalee,LK5312,Morawewa,1.0,9193
+LK5315,Town & Gravets,Trincomalee,LK5315,Trincomalee Town and Gravets,0.61,100270
+LK5318,Thambalagamuwa,Trincomalee,LK5318,Thambalagamuwa,1.0,33636
+LK5321,Kantale,Trincomalee,LK5321,Kanthale,0.93,50840
+LK5324,Kinniya,Trincomalee,LK5324,Kinniya,1.0,86504
+LK5327,Muthur,Trincomalee,LK5327,Muttur,0.83,71881
+LK5330,Seruvila,Trincomalee,LK5330,Seruvila,1.0,16007
+LK5333,Verugal,Trincomalee,LK5333,Verugal (Eachchilampattu),1.0,14062
+LK6103,Giribawa,Kurunegala,LK6103,Giribawa,1.0,34929
+LK6106,Galgamuwa,Kurunegala,LK6106,Galgamuwa,1.0,61759
+LK6109,Ehetuwewa,Kurunegala,LK6109,Ehetuwewa,1.0,28317
+LK6112,Ambanpola,Kurunegala,LK6112,Ambanpola,1.0,25515
+LK6115,Kotawehera,Kurunegala,LK6115,Kotavehera,0.9,24031
+LK6118,Rasnayakapura,Kurunegala,LK6118,Rasnayakapura,1.0,24912
+LK6121,Nikaweratiya,Kurunegala,LK6121,Nikaweratiya,1.0,43402
+LK6124,Maho,Kurunegala,LK6124,Maho,1.0,64122
+LK6127,Polpitigama,Kurunegala,LK6127,Polpithigama,0.96,86411
+LK6130,Ibbagamuwa,Kurunegala,LK6130,Ibbagamuwa,1.0,94167
+LK6133,Ganewatta,Kurunegala,LK6133,Ganewatta,1.0,43431
+LK6136,Wariyapola,Kurunegala,LK6136,Wariyapola,1.0,66488
+LK6139,Kobeigane,Kurunegala,LK6139,Kobeigane,1.0,40669
+LK6142,Bingiriya,Kurunegala,LK6142,Bingiriya,1.0,66724
+LK6145,Panduwasnuwara West,Kurunegala,LK6145,Panduwasnuwara West,1.0,71186
+LK6148,Panduwasnuwara East,Kurunegala,LK6148,Panduwasnuwara East,1.0,31790
+LK6149,Bamunakotuwa,Kurunegala,LK6149,Bamunakotuwa,1.0,39442
+LK6151,Maspotha,Kurunegala,LK6151,Maspotha,1.0,41873
+LK6154,Kurunegala,Kurunegala,LK6154,Kurunegala,1.0,88999
+LK6157,Mallawapitiya,Kurunegala,LK6157,Mallawapitiya,1.0,59491
+LK6160,Mawathagama,Kurunegala,LK6160,Mawathagama,1.0,70867
+LK6163,Rideegama,Kurunegala,LK6163,Rideegama,1.0,95960
+LK6166,Weerabugedara,Kurunegala,LK6166,Weerambugedara,0.96,36590
+LK6169,Kuliyapitiya East,Kurunegala,LK6169,Kuliyapitiya East,1.0,61223
+LK6172,Kuliyapitiya West,Kurunegala,LK6172,Kuliyapitiya West,1.0,82587
+LK6175,Udubaddawa,Kurunegala,LK6175,Udubaddawa,1.0,54466
+LK6178,Pannala,Kurunegala,LK6178,Pannala,1.0,135845
+LK6181,Narammala,Kurunegala,LK6181,Narammala,1.0,59806
+LK6184,Alawwa,Kurunegala,LK6184,Alawwa,1.0,65689
+LK6187,Polgahawela,Kurunegala,LK6187,Polgahawela,1.0,67465
+LK6203,Kalpitiya,Puttalam,LK6203,Kalpitiya,1.0,96995
+LK6206,Vanathavilluwa,Puttalam,LK6206,Vanathawilluwa,0.93,19991
+LK6209,Karuwalagaswewa,Puttalam,LK6209,Karuwalagaswewa,1.0,26225
+LK6212,Nawagattegama,Puttalam,LK6212,Nawagattegama,1.0,17571
+LK6215,Puttalam,Puttalam,LK6215,Puttalam,1.0,94777
+LK6218,Mundel,Puttalam,LK6218,Mundel,1.0,72570
+LK6221,Mahakumbukkadawala,Puttalam,LK6221,Mahakumbukkadawala,1.0,21867
+LK6224,Anamaduwa,Puttalam,LK6224,Anamaduwa,1.0,43526
+LK6227,Pallama,Puttalam,LK6227,Pallama,1.0,27938
+LK6230,Arachchikattuwa,Puttalam,LK6230,Arachchikattuwa,1.0,42749
+LK6233,Chilaw,Puttalam,LK6233,Chilaw,1.0,63639
+LK6236,Madampe,Puttalam,LK6236,Madampe,1.0,48994
+LK6239,Mahawewa,Puttalam,LK6239,Mahawewa,1.0,48833
+LK6242,Nattandiya,Puttalam,LK6242,Nattandiya,1.0,65500
+LK6245,Wennappuwa,Puttalam,LK6245,Wennappuwa,1.0,64768
+LK6248,Dankotuwa,Puttalam,LK6248,Dankotuwa,1.0,62873
+LK7103,Padaviya,Anuradhapura,LK7103,Padaviya,1.0,24493
+LK7106,Kebithigollewa,Anuradhapura,LK7106,Kebithigollewa,1.0,26432
+LK7109,Medawachchiya,Anuradhapura,LK7109,Medawachchiya,1.0,52496
+LK7112,Mahawilachchiya,Anuradhapura,LK7112,Mahawilachchiya,1.0,24194
+LK7115,Nuwaragam Palatha Central,Anuradhapura,LK7115,Nuwaragam Palatha Central,1.0,71529
+LK7118,Rambewa,Anuradhapura,LK7118,Rambewa,1.0,39861
+LK7121,Kahatagasdigiliya,Anuradhapura,LK7121,Kahatagasdigiliya,1.0,44903
+LK7124,Horowpathana,Anuradhapura,LK7124,Horowpothana,0.92,41261
+LK7127,Galenbidunuwewa,Anuradhapura,LK7127,Galenbindunuwewa,0.97,51952
+LK7130,Mihinthale,Anuradhapura,LK7130,Mihinthale,1.0,44107
+LK7133,Nuwaragam Palatha East,Anuradhapura,LK7133,Nuwaragam Palatha East,1.0,76138
+LK7136,Nachchaduwa,Anuradhapura,LK7136,Nachchaduwa,1.0,28266
+LK7139,Nochchiyagama,Anuradhapura,LK7139,Nochchiyagama,1.0,55471
+LK7142,Rajanganaya,Anuradhapura,LK7142,Rajanganaya,1.0,36236
+LK7145,Thambuththegama,Anuradhapura,LK7145,Thambuttegama,0.93,47061
+LK7148,Thalawa,Anuradhapura,LK7148,Thalawa,1.0,61216
+LK7151,Thirappane,Anuradhapura,LK7151,Thirappane,1.0,31121
+LK7154,Kekirawa,Anuradhapura,LK7154,Kekirawa,1.0,65317
+LK7157,Palugaswewa,Anuradhapura,LK7157,Palugaswewa,1.0,18138
+LK7160,Ipalogama,Anuradhapura,LK7160,Ipalogama,1.0,41961
+LK7163,Galnewa,Anuradhapura,LK7163,Galnewa,1.0,39458
+LK7166,Palagala,Anuradhapura,LK7166,Palagala,1.0,38469
+LK7203,Higurakgoda,Polonnaruwa,LK7203,Hingurakgoda,0.96,70651
+LK7206,Medirigiriya,Polonnaruwa,LK7206,Medirigiriya,1.0,72482
+LK7209,Lankapura,Polonnaruwa,LK7209,Lankapura,1.0,39673
+LK7210,Welikanda,Polonnaruwa,LK7210,Welikanda,1.0,38196
+LK7212,Dimbulagala,Polonnaruwa,LK7212,Dimbulagala,1.0,85907
+LK7215,Thamankaduwa,Polonnaruwa,LK7215,Thamankaduwa,1.0,92056
+LK7218,Elahera,Polonnaruwa,LK7218,Elahera,1.0,48565
+LK8103,Mahiyanganaya,Badulla,LK8103,Mahiyanganaya,1.0,89082
+LK8106,Rideemaliyadda,Badulla,LK8106,Rideemaliyadda,1.0,60882
+LK8109,Meegahakiula,Badulla,LK8109,Meegahakivula,0.96,22683
+LK8112,Kandeketiya,Badulla,LK8112,Kandaketiya,0.91,26913
+LK8115,Soranathota,Badulla,LK8115,Soranathota,1.0,24407
+LK8118,Passara,Badulla,LK8118,Passara,1.0,49636
+LK8119,Lunugala,Badulla,LK8119,Lunugala,1.0,31881
+LK8121,Badulla,Badulla,LK8121,Badulla,1.0,83033
+LK8124,Hali-Ela,Badulla,LK8124,Hali-Ela,1.0,94226
+LK8127,Uvaparanagama,Badulla,LK8127,Uva Paranagama,1.0,82069
+LK8130,Welimada,Badulla,LK8130,Welimada,1.0,105510
+LK8133,Bandarawela,Badulla,LK8133,Bandarawela,1.0,65488
+LK8136,Ella,Badulla,LK8136,Ella,1.0,49439
+LK8139,Haputale,Badulla,LK8139,Haputale,1.0,48280
+LK8142,Haldummulla,Badulla,LK8142,Haldummulla,1.0,38778
+LK8203,Bibile,Monaragala,LK8203,Bibile,1.0,47266
+LK8206,Madulla,Monaragala,LK8206,Madulla,1.0,36446
+LK8209,Medagama,Monaragala,LK8209,Medagama,1.0,44614
+LK8212,Siyambalanduwa,Monaragala,LK8212,Siyambalanduwa,1.0,63055
+LK8215,Monaragala,Monaragala,LK8215,Moneragala,0.9,56951
+LK8218,Badalkumbura,Monaragala,LK8218,Badalkumbura,1.0,46595
+LK8221,Wellawaya,Monaragala,LK8221,Wellawaya,1.0,73280
+LK8224,Buttala,Monaragala,LK8224,Buttala,1.0,60606
+LK8227,Katharagama,Monaragala,LK8227,Katharagama,1.0,18158
+LK8230,Thanamalwila,Monaragala,LK8230,Thanamalvila,0.92,31238
+LK8233,Sevanagala,Monaragala,LK8233,Sevanagala,1.0,49376
+LK9103,Eheliyagoda,Ratnapura,LK9103,Eheliyagoda,1.0,74071
+LK9106,Kuruvita,Ratnapura,LK9106,Kuruvita,1.0,97966
+LK9109,Kiriella,Ratnapura,LK9109,Kiriella,1.0,33631
+LK9112,Ratnapura,Ratnapura,LK9112,Ratnapura,1.0,121166
+LK9115,Imbulpe,Ratnapura,LK9115,Imbulpe,1.0,64555
+LK9118,Balangoda,Ratnapura,LK9118,Balangoda,1.0,74893
+LK9121,Opanayake,Ratnapura,LK9121,Opanayake,1.0,27244
+LK9124,Pelmadulla,Ratnapura,LK9124,Pelmadulla,1.0,93818
+LK9127,Elapatha,Ratnapura,LK9127,Elapatha,1.0,38429
+LK9130,Ayagama,Ratnapura,LK9130,Ayagama,1.0,29944
+LK9133,Kalawana,Ratnapura,LK9133,Kalawana,1.0,50753
+LK9136,Nivithigala,Ratnapura,LK9136,Nivithigala,1.0,59442
+LK9139,Kahawattha,Ratnapura,LK9139,Kahawatta,0.95,43708
+LK9142,Godakawela,Ratnapura,LK9142,Godakawela,1.0,78541
+LK9145,Weligepola,Ratnapura,LK9145,Weligepola,1.0,34168
+LK9148,Embilipitiya,Ratnapura,LK9148,Embilipitiya,1.0,160008
+LK9151,Kolonna,Ratnapura,LK9151,Kolonna,1.0,50068
+LK9154,Kalthota,Ratnapura,LK9119,Kaltota,0.93,13018
+LK9203,Rambukkana,Kegalle,LK9203,Rambukkana,1.0,87055
+LK9206,Mawanella,Kegalle,LK9206,Mawanella,1.0,126026
+LK9209,Aranayake,Kegalle,LK9209,Aranayaka,0.89,69075
+LK9212,Kegalle,Kegalle,LK9212,Kegalle,1.0,94314
+LK9215,Galigamuwa,Kegalle,LK9215,Galigamuwa,1.0,73778
+LK9218,Warakapola,Kegalle,LK9218,Warakapola,1.0,117967
+LK9221,Ruwanwella,Kegalle,LK9221,Ruwanwella,1.0,65797
+LK9224,Bulathkohipitiya,Kegalle,LK9224,Bulathkohupitiya,0.94,45237
+LK9227,Yatiyantota,Kegalle,LK9227,Yatiyanthota,0.96,62255
+LK9230,Dehiowita,Kegalle,LK9230,Dehiovita,0.89,84967
+LK9233,Deraniyagala,Kegalle,LK9233,Deraniyagala,1.0,44005
